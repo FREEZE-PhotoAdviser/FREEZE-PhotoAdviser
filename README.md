@@ -1,23 +1,23 @@
-<img src="./img/슬라이드1.jpg" />
-<img src="./img/슬라이드2.jpg" />
-<img src="./img/슬라이드3.jpg" />
-<img src="./img/슬라이드4.jpg" />
-<img src="./img/슬라이드5.jpg" />
-<img src="./img/슬라이드6.jpg" />
-<img src="./img/슬라이드7.jpg" />
-<img src="./img/슬라이드8.jpg" />
-<img src="./img/슬라이드9.jpg" />
-<img src="./img/슬라이드10.jpg" />
-<img src="./img/슬라이드11.jpg" />
-<img src="./img/슬라이드12.jpg" />
-<img src="./img/슬라이드13.jpg" />
-<img src="./img/슬라이드14.jpg" />
-<img src="./img/슬라이드15.jpg" />
-<img src="./img/슬라이드16.jpg" />
-<img src="./img/슬라이드17.jpg" />
-<img src="./img/슬라이드18.jpg" />
-<img src="./img/슬라이드19.jpg" />
-<img src="./img/슬라이드20.jpg" />
-<img src="./img/슬라이드21.jpg" />
-<img src="./img/슬라이드22.jpg" />
-<img src="./img/슬라이드23.jpg" />
+![slide](./img/슬라이드1.jpg)
+![slide](./img/슬라이드2.jpg)
+![slide](./img/슬라이드3.jpg)
+![slide](./img/슬라이드4.jpg)
+![slide](./img/슬라이드5.jpg)
+![slide](./img/슬라이드6.jpg)
+![slide](./img/슬라이드7.jpg)
+![slide](./img/슬라이드8.jpg)
+![slide](./img/슬라이드9.jpg)
+![slide](./img/슬라이드10.jpg)
+![slide](./img/슬라이드11.jpg)
+![slide](./img/슬라이드12.jpg)
+![slide](./img/슬라이드13.jpg)
+![slide](./img/슬라이드14.jpg)
+![slide](./img/슬라이드15.jpg)
+![slide](./img/슬라이드16.jpg)
+![slide](./img/슬라이드17.jpg)
+![slide](./img/슬라이드18.jpg)
+![slide](./img/슬라이드19.jpg)
+![slide](./img/슬라이드20.jpg)
+![slide](./img/슬라이드21.jpg)
+![slide](./img/슬라이드22.jpg)
+![slide](./img/슬라이드23.jpg)
